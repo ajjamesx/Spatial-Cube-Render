@@ -29,9 +29,20 @@ This project features a 3D rotating cube rendered on an HTML canvas, set against
   - Texture drawn using approximate projection and clipping per face
   - Lighting intensity adjusts alpha transparency of texture rendering
 
-## 🖼 Preview
 
-> _Rotating cube textured with Box logo, casting responsive shadows, floating in a sky that evolves with time. Stars pulse after dusk and the sun glides overhead._
+## 🖥️ Running the Demo
+
+This project uses canvas-based rendering — no dependencies, no WebGL!
+
+### 🔧 Option 1: Python (Recommended for local testing)
+
+```bash
+# From your project directory:
+python -m http.server
+
+# Then open in your browser:
+http://localhost:8000/index.html
+
 
 ## 🧱 Tech Stack
 
