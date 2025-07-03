@@ -42,7 +42,7 @@ python -m http.server
 
 # Then open in your browser:
 http://localhost:8000/index.html
-
+```
 
 ## 🧱 Tech Stack
 
