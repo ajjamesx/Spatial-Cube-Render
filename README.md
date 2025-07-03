@@ -25,13 +25,13 @@ This project features a 3D rotating cube rendered on an HTML canvas, set against
   - Ambient light ensures no face is completely dark
 
 - **Texture Mapping**  
-  - All six cube faces use the same texture (`asus.jpg`)
+  - All six cube faces use the same texture (`box.jpg`)
   - Texture drawn using approximate projection and clipping per face
   - Lighting intensity adjusts alpha transparency of texture rendering
 
 ## 🖼 Preview
 
-> _Rotating cube textured with ASUS logo, casting responsive shadows, floating in a sky that evolves with time. Stars pulse after dusk and the sun glides overhead._
+> _Rotating cube textured with Box logo, casting responsive shadows, floating in a sky that evolves with time. Stars pulse after dusk and the sun glides overhead._
 
 ## 🧱 Tech Stack
 
@@ -44,7 +44,7 @@ No libraries or frameworks required.
 ## 🚀 Getting Started
 
 1. Clone or download this repository.
-2. Ensure your texture image is named `asus.jpg` and placed in the root directory.
+2. Ensure your texture image is named `box.jpg` and placed in the root directory.
 3. Open `index.html` in any modern browser.
 
 You’ll instantly see a rotating, shaded, textured cube beneath a dynamic atmosphere.
